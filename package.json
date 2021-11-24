@@ -1,0 +1,14 @@
+{
+  "name": "automation-jest",
+  "version": "1.0.0",
+  "description": "Sample repo for jest",
+  "main": "",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\jest"
+  },
+  "author": "Syed Thoufiq",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
